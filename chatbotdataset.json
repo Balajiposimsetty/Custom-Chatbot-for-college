@@ -1,0 +1,1450 @@
+[
+    {
+        "input": "What is the name of the college?",
+        "output": "The name of the college is Sri Vasavi Engineering College."
+    },
+    {
+        "input": "Can you tell me the name of the institution?",
+        "output": "The institution is called Sri Vasavi Engineering College."
+    },
+    {
+        "input": "What is the full name of the college?",
+        "output": "The full name of the college is Sri Vasavi Engineering College."
+    },
+    {
+        "input": "Which college is this?",
+        "output": "This is Sri Vasavi Engineering College."
+    },
+    {
+        "input": "Where is the college located?",
+        "output": "It is located in Tadepalligudem, Andhra Pradesh, India."
+    },
+    {
+        "input": "What is the location of the college?",
+        "output": "The college is situated in Tadepalligudem, Andhra Pradesh, India."
+    },
+    {
+        "input": "Can you provide the address of the college?",
+        "output": "The address of the college is Tadepalligudem, Andhra Pradesh, India."
+    },
+    {
+        "input": "Where can I find the college?",
+        "output": "You can find the college in Tadepalligudem, Andhra Pradesh, India."
+    },
+    {
+        "input": "When was the college established?",
+        "output": "The college was founded in 2001."
+    },
+    {
+        "input": "What year was the college founded?",
+        "output": "It was established in 2001."
+    },
+    {
+        "input": "Can you provide the establishment year of the college?",
+        "output": "The college's establishment year is 2001."
+    },
+    {
+        "input": "When did the college open?",
+        "output": "The college opened its doors in 2001."
+    },
+    {
+        "input": "What is the affiliation of the college?",
+        "output": "The college is affiliated with Jawaharlal Nehru Technological University (JNTU)."
+    },
+    {
+        "input": "Which university is the college affiliated with?",
+        "output": "It has an affiliation with Jawaharlal Nehru Technological University (JNTU)."
+    },
+    {
+        "input": "Can you tell me about the college's affiliation?",
+        "output": "The college's affiliation is with Jawaharlal Nehru Technological University (JNTU)."
+    },
+    {
+        "input": "To which university is the college linked?",
+        "output": "The college is linked to Jawaharlal Nehru Technological University (JNTU)."
+    },
+    {
+        "input": "What is the accreditation status of the college?",
+        "output": "The college holds NAAC 'A' Grade accreditation and is also NBA Accredited."
+    },
+    {
+        "input": "Is the college accredited?",
+        "output": "Yes, the college is accredited with NAAC 'A' Grade and NBA Accredited."
+    },
+    {
+        "input": "Can you provide details on the college's accreditation?",
+        "output": "The college has NAAC 'A' Grade accreditation and is NBA Accredited."
+    },
+    {
+        "input": "What accreditation does the college hold?",
+        "output": "The college is accredited with NAAC 'A' Grade and has NBA Accreditation."
+    },
+    {
+        "input": "How many students are there in the college?",
+        "output": "There are 4000 students enrolled at the college."
+    },
+    {
+        "input": "What is the student population of the college?",
+        "output": "The college has a total of 4000 students."
+    },
+    {
+        "input": "Can you tell me the number of students?",
+        "output": "The number of students at the college is 4000."
+    },
+    {
+        "input": "How many students are enrolled at the college?",
+        "output": "The enrollment at the college is 4000 students."
+    },
+    {
+        "input": "How many faculty members are there?",
+        "output": "The college has a total of 250 faculty members."
+    },
+    {
+        "input": "What is the total number of faculty members?",
+        "output": "There are 250 faculty members in the college."
+    },
+    {
+        "input": "Can you provide the number of faculty members?",
+        "output": "The college employs 250 faculty members."
+    },
+    {
+        "input": "How many teachers work at the college?",
+        "output": "The college has 250 teaching staff."
+    },
+    {
+        "input": "What courses are offered at the college?",
+        "output": "The college offers courses in B.Tech, M.Tech, MBA, and MCA."
+    },
+    {
+        "input": "Can you list the courses available at the college?",
+        "output": "Available courses at the college include B.Tech, M.Tech, MBA, and MCA."
+    },
+    {
+        "input": "What programs does the college offer?",
+        "output": "Programs offered by the college include B.Tech, M.Tech, MBA, and MCA."
+    },
+    {
+        "input": "What are the academic programs provided by the college?",
+        "output": "The academic programs available are B.Tech, M.Tech, MBA, and MCA."
+    },
+    {
+        "input": "What departments are there in the college?",
+        "output": "The college features several departments: Computer Science & Engineering, Electronics & Communication Engineering, Electrical & Electronics Engineering, Mechanical Engineering, Civil Engineering, MBA, and MCA."
+    },
+    {
+        "input": "Can you list the departments at the college?",
+        "output": "Departments at the college include Computer Science & Engineering, Electronics & Communication Engineering, Electrical & Electronics Engineering, Mechanical Engineering, Civil Engineering, MBA, and MCA."
+    },
+    {
+        "input": "What academic departments are available?",
+        "output": "The college has the following academic departments: Computer Science & Engineering, Electronics & Communication Engineering, Electrical & Electronics Engineering, Mechanical Engineering, Civil Engineering, MBA, and MCA."
+    },
+    {
+        "input": "Which departments are part of the college?",
+        "output": "The departments in the college are: Computer Science & Engineering, Electronics & Communication Engineering, Electrical & Electronics Engineering, Mechanical Engineering, Civil Engineering, MBA, and MCA."
+    },
+    {
+        "input": "What facilities are available at the college?",
+        "output": "The college offers a library, labs, hostels, a sports complex, a canteen, an auditorium, and a Wi-Fi-enabled campus."
+    },
+    {
+        "input": "Can you tell me about the facilities at the college?",
+        "output": "Facilities at the college include a library, laboratories, hostels, a sports complex, a canteen, an auditorium, and a Wi-Fi campus."
+    },
+    {
+        "input": "What amenities are provided by the college?",
+        "output": "The college provides amenities such as a library, labs, hostels, a sports complex, a canteen, an auditorium, and Wi-Fi throughout the campus."
+    },
+    {
+        "input": "What are the key facilities available at the college?",
+        "output": "Key facilities at the college include a library, laboratories, hostels, a sports complex, a canteen, an auditorium, and a Wi-Fi campus."
+    },
+    {
+        "input": "What is the contact number for the college?",
+        "output": "You can reach the college at 08818-284355."
+    },
+    {
+        "input": "Can you give me the phone number of the college?",
+        "output": "The college's phone number is 08818-284355."
+    },
+    {
+        "input": "What is the college's contact number?",
+        "output": "The contact number for the college is 08818-284355."
+    },
+    {
+        "input": "How can I reach the college by phone?",
+        "output": "You can contact the college at 08818-284355."
+    },
+    {
+        "input": "What is the website of the college?",
+        "output": "The college's website can be found at www.srivasaviengg.ac.in."
+    },
+    {
+        "input": "Can you provide the URL for the college's website?",
+        "output": "Visit www.srivasaviengg.ac.in for the college's website."
+    },
+    {
+        "input": "What is the college's official website?",
+        "output": "The official website of the college is www.srivasaviengg.ac.in."
+    },
+    {
+        "input": "Where can I find information about the college online?",
+        "output": "You can find information about the college on its website: www.srivasaviengg.ac.in."
+    },
+    {
+        "input": "What is the address of the college?",
+        "output": "The college's address is Pedatadepalli, Tadepalligudem, West Godavari, Andhra Pradesh, India - 534101."
+    },
+    {
+        "input": "Can you provide the full address of the college?",
+        "output": "The complete address of the college is Pedatadepalli, Tadepalligudem, West Godavari, Andhra Pradesh, India - 534101."
+    },
+    {
+        "input": "Where is the college located exactly?",
+        "output": "The precise location of the college is Pedatadepalli, Tadepalligudem, West Godavari, Andhra Pradesh, India - 534101."
+    },
+    {
+        "input": "What is the postal address of the college?",
+        "output": "The postal address of the college is Pedatadepalli, Tadepalligudem, West Godavari, Andhra Pradesh, India - 534101."
+    },
+    {
+        "input": "Who is the Professor & HoD?",
+        "output": "The current Professor and Head of Department is Dr. D. Jaya Kumari."
+    },
+    {
+        "input": "Can you tell me the name of the Professor & Head of Department?",
+        "output": "The name of the Professor and Head of Department is Dr. D. Jaya Kumari."
+    },
+    {
+        "input": "Who is currently the Professor and Head of Department?",
+        "output": "Dr. D. Jaya Kumari is the current Professor and Head of Department."
+    },
+    {
+        "input": "Who holds the position of Professor & HoD?",
+        "output": "Dr. D. Jaya Kumari holds the position of Professor and HoD."
+    },
+    {
+        "input": "Who is the head of the Computer Science department?",
+        "output": "Dr. D. Jaya Kumari is the head of the Computer Science department."
+    },
+    {
+        "input": "Can you name the head of the Computer Science department?",
+        "output": "The head of the Computer Science department is Dr. D. Jaya Kumari."
+    },
+    {
+        "input": "Who leads the Computer Science department?",
+        "output": "The Computer Science department is led by Dr. D. Jaya Kumari."
+    },
+    {
+        "input": "Who is the head of the CSE department?",
+        "output": "Dr. D. Jaya Kumari is the head of the CSE department."
+    },
+    {
+        "input": "Who is the Professor & Dean (R&D)?",
+        "output": "The Professor and Dean of Research and Development is Dr. V. S. Naresh."
+    },
+    {
+        "input": "Can you tell me the name of the Dean of Research and Development?",
+        "output": "The Dean of Research and Development is Dr. V. S. Naresh."
+    },
+    {
+        "input": "Who is the Professor and Dean (R&D)?",
+        "output": "Dr. V. S. Naresh serves as the Professor and Dean of Research and Development."
+    },
+    {
+        "input": "Who holds the position of Dean (R&D)?",
+        "output": "The position of Dean (R&D) is held by Dr. V. S. Naresh."
+    },
+    {
+        "input": "Who is the Senior Assistant Professor in the faculty?",
+        "output": "The Senior Assistant Professors include Mrs. A. Leelavathi, Dr. D. Anjani Suputri Devi, Mr. G. Nataraj, Ms. D. Sasi Rekha, Mrs. B. Sri Ramya, Mr. G. Sriram Ganesh, Mr. N. V. Murali Krishna Raja, Mrs. N. Hiranmayee, Mr. A. Rajesh, and Mr. M. Nageswara Rao."
+    },
+    {
+        "input": "Can you list the Senior Assistant Professors?",
+        "output": "The Senior Assistant Professors are Mrs. A. Leelavathi, Dr. D. Anjani Suputri Devi, Mr. G. Nataraj, Ms. D. Sasi Rekha, Mrs. B. Sri Ramya, Mr. G. Sriram Ganesh, Mr. N. V. Murali Krishna Raja, Mrs. N. Hiranmayee, Mr. A. Rajesh, and Mr. M. Nageswara Rao."
+    },
+    {
+        "input": "Who are the Senior Assistant Professors?",
+        "output": "The Senior Assistant Professors are Mrs. A. Leelavathi, Dr. D. Anjani Suputri Devi, Mr. G. Nataraj, Ms. D. Sasi Rekha, Mrs. B. Sri Ramya, Mr. G. Sriram Ganesh, Mr. N. V. Murali Krishna Raja, Mrs. N. Hiranmayee, Mr. A. Rajesh, and Mr. M. Nageswara Rao."
+    },
+    {
+        "input": "Can you provide names of Senior Assistant Professors?",
+        "output": "The names of the Senior Assistant Professors include Mrs. A. Leelavathi, Dr. D. Anjani Suputri Devi, Mr. G. Nataraj, Ms. D. Sasi Rekha, Mrs. B. Sri Ramya, Mr. G. Sriram Ganesh, Mr. N. V. Murali Krishna Raja, Mrs. N. Hiranmayee, Mr. A. Rajesh, and Mr. M. Nageswara Rao."
+    },
+    {
+        "input": "Who is the Assistant Professor?",
+        "output": "The Assistant Professors include Mrs. Y. Divya Vani, Mr. K. Lakshminarayana, Ms. A. Kiranmai, Ms. G. SiriVenkata Bhanu, Mrs. D. S. L. Manikanteswari, Mr. M. V. V. Krishna, Mr. P. Uma Sankar, Mr. M. S. Kumar Reddy, Mr. P. Rajesh, Ms. M. Santhi, Mrs. A. Nagajyothi, Mrs. G. Prasanthi, and Mr. K. Praveen Kumar."
+    },
+    {
+        "input": "Can you list the Assistant Professors?",
+        "output": "The Assistant Professors are Mrs. Y. Divya Vani, Mr. K. Lakshminarayana, Ms. A. Kiranmai, Ms. G. SiriVenkata Bhanu, Mrs. D. S. L. Manikanteswari, Mr. M. V. V. Krishna, Mr. P. Uma Sankar, Mr. M. S. Kumar Reddy, Mr. P. Rajesh, Ms. M. Santhi, Mrs. A. Nagajyothi, Mrs. G. Prasanthi, and Mr. K. Praveen Kumar."
+    },
+    {
+        "input": "Who are the Assistant Professors at the college?",
+        "output": "The Assistant Professors at the college include Mrs. Y. Divya Vani, Mr. K. Lakshminarayana, Ms. A. Kiranmai, Ms. G. SiriVenkata Bhanu, Mrs. D. S. L. Manikanteswari, Mr. M. V. V. Krishna, Mr. P. Uma Sankar, Mr. M. S. Kumar Reddy, Mr. P. Rajesh, Ms. M. Santhi, Mrs. A. Nagajyothi, Mrs. G. Prasanthi, and Mr. K. Praveen Kumar."
+    },
+    {
+        "input": "Can you provide names of Assistant Professors?",
+        "output": "The names of the Assistant Professors include Mrs. Y. Divya Vani, Mr. K. Lakshminarayana, Ms. A. Kiranmai, Ms. G. SiriVenkata Bhanu, Mrs. D. S. L. Manikanteswari, Mr. M. V. V. Krishna, Mr. P. Uma Sankar, Mr. M. S. Kumar Reddy, Mr. P. Rajesh, Ms. M. Santhi, Mrs. A. Nagajyothi, Mrs. G. Prasanthi, and Mr. K. Praveen Kumar."
+    },
+    {
+        "input": "Who is the Assistant Professor in the Computer Science department?",
+        "output": "In the Computer Science department, Mrs. Y. Divya Vani serves as an Assistant Professor."
+    },
+    {
+        "input": "Can you name the Assistant Professor in the Computer Science department?",
+        "output": "The Assistant Professor in the Computer Science department is Mrs. Y. Divya Vani."
+    },
+    {
+        "input": "Who is the Assistant Professor for Computer Science?",
+        "output": "Mrs. Y. Divya Vani is the Assistant Professor for Computer Science."
+    },
+    {
+        "input": "Who holds the position of Assistant Professor in CSE?",
+        "output": "The position of Assistant Professor in CSE is held by Mrs. Y. Divya Vani."
+    },
+    {
+        "input": "What subjects are taught in Semester I?",
+        "output": "Semester I includes the following subjects: Linear Algebra and Differential Equations, Engineering Chemistry, English for Professional Enhancement, Engineering Workshop, Programming in C for Problem Solving, Hone Your Communications Skills Lab-I, Engineering Chemistry Lab, and Programming Lab in C for Problem Solving."
+    },
+    {
+        "input": "Can you list the subjects for Semester I?",
+        "output": "The subjects offered in Semester I are Linear Algebra and Differential Equations, Engineering Chemistry, English for Professional Enhancement, Engineering Workshop, Programming in C for Problem Solving, Hone Your Communications Skills Lab-I, Engineering Chemistry Lab, and Programming Lab in C for Problem Solving."
+    },
+    {
+        "input": "What are the courses for Semester I?",
+        "output": "The courses for Semester I comprise Linear Algebra and Differential Equations, Engineering Chemistry, English for Professional Enhancement, Engineering Workshop, Programming in C for Problem Solving, Hone Your Communications Skills Lab-I, Engineering Chemistry Lab, and Programming Lab in C for Problem Solving."
+    },
+    {
+        "input": "What topics are covered in Semester I?",
+        "output": "The topics included in Semester I are Linear Algebra and Differential Equations, Engineering Chemistry, English for Professional Enhancement, Engineering Workshop, Programming in C for Problem Solving, Hone Your Communications Skills Lab-I, Engineering Chemistry Lab, and Programming Lab in C for Problem Solving."
+    },
+    {
+        "input": "What subjects are covered in Semester V?",
+        "output": "Semester V includes the following subjects: Operating Systems, Data Mining, Web Technologies, Open Elective - I / Job Oriented Elective - I, Professional Elective - I, Software Testing Methodologies, Principles of Programming Languages, Artificial Intelligence, Computer Graphics, Data Mining Lab, Web Technologies Lab, Skill Oriented Course-III (Soft Skills), Mini Project / Internship, and Professional Communication Skills - III."
+    },
+    {
+        "input": "Can you list the Semester V subjects?",
+        "output": "The subjects for Semester V are Operating Systems, Data Mining, Web Technologies, Open Elective - I / Job Oriented Elective - I, Professional Elective - I, Software Testing Methodologies, Principles of Programming Languages, Artificial Intelligence, Computer Graphics, Data Mining Lab, Web Technologies Lab, Skill Oriented Course-III (Soft Skills), Mini Project / Internship, and Professional Communication Skills - III."
+    },
+    {
+        "input": "What are the topics for Semester V?",
+        "output": "The topics for Semester V include Operating Systems, Data Mining, Web Technologies, Open Elective - I / Job Oriented Elective - I, Professional Elective - I, Software Testing Methodologies, Principles of Programming Languages, Artificial Intelligence, Computer Graphics, Data Mining Lab, Web Technologies Lab, Skill Oriented Course-III (Soft Skills), Mini Project / Internship, and Professional Communication Skills - III."
+    },
+    {
+        "input": "What courses are included in Semester V?",
+        "output": "The courses offered in Semester V are Operating Systems, Data Mining, Web Technologies, Open Elective - I / Job Oriented Elective - I, Professional Elective - I, Software Testing Methodologies, Principles of Programming Languages, Artificial Intelligence, Computer Graphics, Data Mining Lab, Web Technologies Lab, Skill Oriented Course-III (Soft Skills), Mini Project / Internship, and Professional Communication Skills - III."
+    },
+    {
+        "input": "Can you list the subjects for Semester III?",
+        "output": "The subjects for Semester III consist of Data Structures, Theory of Computation, Digital Logic Design, Operating Systems, Probability and Statistics, and Data Structures Lab."
+    },
+    {
+        "input": "What are the Semester III subjects?",
+        "output": "The subjects covered in Semester III include Data Structures, Theory of Computation, Digital Logic Design, Operating Systems, Probability and Statistics, and Data Structures Lab."
+    },
+    {
+        "input": "What courses are offered in Semester III?",
+        "output": "In Semester III, the courses offered are Data Structures, Theory of Computation, Digital Logic Design, Operating Systems, Probability and Statistics, and Data Structures Lab."
+    },
+    {
+        "input": "What topics are included in Semester III?",
+        "output": "The topics included in Semester III are Data Structures, Theory of Computation, Digital Logic Design, Operating Systems, Probability and Statistics, and Data Structures Lab."
+    },
+    {
+        "input": "What is the timetable for Section A?",
+        "output": "The timetable for Section A is outlined as follows: Room No - G-201. Classes include AI on Monday and Wednesday, OS on Tuesday and Thursday, WT on Monday and Friday, and DM on Tuesday and Thursday."
+    },
+    {
+        "input": "Can you provide the timetable for Section A?",
+        "output": "For Section A, the timetable is: Room No - G-201. The classes scheduled are AI on Monday and Wednesday, OS on Tuesday and Thursday, WT on Monday and Friday, and DM on Tuesday and Thursday."
+    },
+    {
+        "input": "What is the schedule for Section A?",
+        "output": "Section A's schedule is as follows: Room No - G-201. Classes include AI on Monday and Wednesday, OS on Tuesday and Thursday, WT on Monday and Friday, and DM on Tuesday and Thursday."
+    },
+    {
+        "input": "Can you tell me the timetable for Section A?",
+        "output": "The schedule for Section A is as follows: Room No - G-201. It includes AI on Monday and Wednesday, OS on Tuesday and Thursday, WT on Monday and Friday, and DM on Tuesday and Thursday."
+    },
+    {
+        "input": "Who is the Class Coordinator for Section B?",
+        "output": "The Class Coordinator for Section B is Mrs. G. Prasanthi."
+    },
+    {
+        "input": "Can you tell me the Class Coordinator for Section B?",
+        "output": "Mrs. G. Prasanthi is the Class Coordinator for Section B."
+    },
+    {
+        "input": "Who coordinates Section B?",
+        "output": "The coordinator for Section B is Mrs. G. Prasanthi."
+    },
+    {
+        "input": "Who is in charge of Section B?",
+        "output": "Mrs. G. Prasanthi is the Class Coordinator overseeing Section B."
+    },
+    {
+        "input": "What subjects are scheduled from 10:30 AM - 11:20 AM on Monday for Section C?",
+        "output": "In Section C, the subject scheduled from 10:30 AM - 11:20 AM on Monday is DM."
+    },
+    {
+        "input": "Can you tell me the subjects for Section C during 10:30 AM - 11:20 AM on Monday?",
+        "output": "The subject for Section C during the time slot of 10:30 AM - 11:20 AM on Monday is DM."
+    },
+    {
+        "input": "What is the Monday schedule from 10:30 AM - 11:20 AM for Section C?",
+        "output": "For Section C, the subject scheduled on Monday from 10:30 AM - 11:20 AM is DM."
+    },
+    {
+        "input": "What classes are held from 10:30 AM - 11:20 AM on Monday in Section C?",
+        "output": "Section C has DM scheduled from 10:30 AM - 11:20 AM on Monday."
+    },
+    {
+        "input": "What is the timetable for Semester II?",
+        "output": "Semester II consists of subjects such as Engineering Mathematics-II, Engineering Physics, Engineering Chemistry, and Computer Organization, with corresponding labs and tutorials scheduled throughout the week."
+    },
+    {
+        "input": "Can you list the subjects and schedule for Semester II?",
+        "output": "The Semester II timetable features subjects including Engineering Mathematics-II, Engineering Physics, Engineering Chemistry, and Computer Organization, along with their associated labs and tutorials spread across the week."
+    },
+    {
+        "input": "What topics are covered in Semester II?",
+        "output": "Semester II includes subjects like Engineering Mathematics-II, Engineering Physics, Engineering Chemistry, and Computer Organization, with labs and tutorials organized throughout the week."
+    },
+    {
+        "input": "Can you provide the Semester II timetable?",
+        "output": "The timetable for Semester II includes subjects such as Engineering Mathematics-II, Engineering Physics, Engineering Chemistry, and Computer Organization, alongside their respective labs and tutorials scheduled during the week."
+    },
+    {
+        "input": "What are some upcoming events at the college?",
+        "output": "Upcoming events include the Annual Tech Fest on September 10, 2024, the Inter-College Sports Meet from October 15-17, 2024, and the Cultural Festival on December 5-7, 2024."
+    },
+    {
+        "input": "Can you list the upcoming events?",
+        "output": "The upcoming events feature the Annual Tech Fest on September 10, 2024, the Inter-College Sports Meet from October 15-17, 2024, and the Cultural Festival on December 5-7, 2024."
+    },
+    {
+        "input": "What events are scheduled in the near future?",
+        "output": "The near-future events include the Annual Tech Fest on September 10, 2024, the Inter-College Sports Meet from October 15-17, 2024, and the Cultural Festival on December 5-7, 2024."
+    },
+    {
+        "input": "What are the next events at the college?",
+        "output": "The next events at the college are the Annual Tech Fest on September 10, 2024, the Inter-College Sports Meet from October 15-17, 2024, and the Cultural Festival on December 5-7, 2024."
+    },
+    {
+        "input": "What student clubs are active in the college?",
+        "output": "Active student clubs include the Robotics Club, Literary Club, Music Club, Drama Club, and Environmental Club."
+    },
+    {
+        "input": "Can you name the active student clubs?",
+        "output": "Currently active student clubs include the Robotics Club, Literary Club, Music Club, Drama Club, and Environmental Club."
+    },
+    {
+        "input": "Which clubs are currently active at the college?",
+        "output": "The clubs currently active at the college are the Robotics Club, Literary Club, Music Club, Drama Club, and Environmental Club."
+    },
+    {
+        "input": "What are the active student organizations at the college?",
+        "output": "Active student organizations include the Robotics Club, Literary Club, Music Club, Drama Club, and Environmental Club."
+    },
+    {
+        "input": "Are there any scholarships available?",
+        "output": "Yes, scholarships are available based on academic performance, financial need, and merit. Specific scholarships include the Merit Scholarship, Need-Based Scholarship, and the Dr. Reddy's Foundation Scholarship."
+    },
+    {
+        "input": "What scholarships are offered by the college?",
+        "output": "Yes, the college offers scholarships based on academic performance, financial need, and merit. These include the Merit Scholarship, Need-Based Scholarship, and the Dr. Reddy's Foundation Scholarship."
+    },
+    {
+        "input": "Can you provide details on available scholarships?",
+        "output": "Yes, scholarships are available based on academic performance, financial need, and merit. Specific scholarships include the Merit Scholarship, Need-Based Scholarship, and the Dr. Reddy's Foundation Scholarship."
+    },
+    {
+        "input": "Are there scholarship opportunities for students?",
+        "output": "Yes, there are scholarships available based on academic performance, financial need, and merit. Specific scholarships include the Merit Scholarship, Need-Based Scholarship, and the Dr. Reddy's Foundation Scholarship."
+    },
+    {
+        "input": "What are some recent research projects undertaken at the college?",
+        "output": "Recent research projects include 'AI in Healthcare' led by Dr. V. S. Naresh and 'Renewable Energy Solutions' by the Department of Mechanical Engineering."
+    },
+    {
+        "input": "Can you list recent research projects?",
+        "output": "Recent research projects feature 'AI in Healthcare' led by Dr. V. S. Naresh and 'Renewable Energy Solutions' by the Department of Mechanical Engineering."
+    },
+    {
+        "input": "What research work has been done recently?",
+        "output": "Recent research projects involve 'AI in Healthcare' led by Dr. V. S. Naresh and 'Renewable Energy Solutions' by the Department of Mechanical Engineering."
+    },
+    {
+        "input": "What are the latest research projects at the college?",
+        "output": "The latest research projects include 'AI in Healthcare' led by Dr. V. S. Naresh and 'Renewable Energy Solutions' by the Department of Mechanical Engineering."
+    },
+    {
+        "input": "Have any students won awards recently?",
+        "output": "Yes, students have recently won first prize at the National Robotics Championship and secured second position at the Inter-College Debating Competition."
+    },
+    {
+        "input": "Can you tell me about recent student awards?",
+        "output": "Yes, students have recently achieved first prize at the National Robotics Championship and secured second position at the Inter-College Debating Competition."
+    },
+    {
+        "input": "What awards have students received recently?",
+        "output": "Yes, students have recently won first prize at the National Robotics Championship and secured second position at the Inter-College Debating Competition."
+    },
+    {
+        "input": "Have there been any recent achievements by students?",
+        "output": "Yes, students have recently won first prize at the National Robotics Championship and secured second position at the Inter-College Debating Competition."
+    },
+    {
+        "input": "What are the notable achievements of the college?",
+        "output": "Notable achievements of the college include being ranked among the top 50 engineering colleges in India by NIRF and maintaining a 100% placement record for the past three years."
+    },
+    {
+        "input": "Can you list the college's notable achievements?",
+        "output": "The college's notable achievements include being ranked among the top 50 engineering colleges in India by NIRF and having a 100% placement record for the past three years."
+    },
+    {
+        "input": "What achievements is the college known for?",
+        "output": "The college is known for notable achievements such as being ranked among the top 50 engineering colleges in India by NIRF and having a 100% placement record for the past three years."
+    },
+    {
+        "input": "What are the major accomplishments of the college?",
+        "output": "Major accomplishments of the college include being ranked among the top 50 engineering colleges in India by NIRF and maintaining a 100% placement record for the past three years."
+    },
+    {
+        "input": "What is the cutoff for admission to the CSE department?",
+        "output": "Typically, the cutoff is among the highest for engineering disciplines, and it changes each year based on entrance exam results."
+    },
+    {
+        "input": "Can you tell me the cutoff score for CSE admission?",
+        "output": "The cutoff score varies annually, but it's generally one of the highest in the engineering field, depending on entrance exam scores."
+    },
+    {
+        "input": "How high is the cutoff for CSE?",
+        "output": "Each year, the cutoff can vary, but it usually ranks as one of the highest for engineering courses."
+    },
+    {
+        "input": "What are the cutoff marks required to get into the CSE department?",
+        "output": "The required cutoff marks change annually and are typically among the highest for engineering programs."
+    },
+    {
+        "input": "Are there entrance exams for admission to the CSE department?",
+        "output": "Yes, students must take entrance exams such as JEE Main, EAMCET, or tests specific to the institute."
+    },
+    {
+        "input": "What entrance exams are required for CSE admission?",
+        "output": "Entrance exams like JEE Main, EAMCET, or specific institute tests are mandatory for CSE admission."
+    },
+    {
+        "input": "Is there an entrance exam for joining the CSE department?",
+        "output": "Absolutely, entrance exams like JEE Main, EAMCET, or tests unique to the institution are required."
+    },
+    {
+        "input": "Do students need to pass entrance exams for CSE admission?",
+        "output": "Yes, it is necessary for students to pass entrance exams like JEE Main, EAMCET, or specific tests of the institute."
+    },
+    {
+        "input": "Can diploma holders join the CSE department via lateral entry?",
+        "output": "Yes, those with diplomas can join the CSE department through lateral entry, usually starting in the second year of the B.Tech program."
+    },
+    {
+        "input": "Is lateral entry available for diploma holders in CSE?",
+        "output": "Definitely! Diploma holders can enter the CSE program via lateral entry, typically from the second year of B.Tech."
+    },
+    {
+        "input": "How can diploma holders join the CSE department?",
+        "output": "Diploma holders can enroll in the CSE department through lateral entry, generally starting in the second year of the B.Tech program."
+    },
+    {
+        "input": "Can diploma students enter the CSE program through lateral entry?",
+        "output": "Yes, diploma students can gain admission to the CSE program via lateral entry, usually in the second year of the B.Tech course."
+    },
+    {
+        "input": "What documents are required for admission to the CSE department?",
+        "output": "You typically need documents like 10+2 mark sheets, an entrance exam rank card, a transfer certificate, and a form of ID."
+    },
+    {
+        "input": "Can you list the documents needed for CSE admission?",
+        "output": "The necessary documents usually consist of 10+2 mark sheets, a rank card from the entrance exam, a transfer certificate, and ID proof."
+    },
+    {
+        "input": "What paperwork is required to get admitted to the CSE department?",
+        "output": "To get admitted, you'll need documents such as 10+2 mark sheets, an entrance exam rank card, a transfer certificate, and identity proof."
+    },
+    {
+        "input": "What are the necessary documents for CSE admission?",
+        "output": "Generally, you'll need documents including 10+2 mark sheets, an entrance exam rank card, a transfer certificate, and proof of identity."
+    },
+    {
+        "input": "What is the strength of the CSE department (number of students)?",
+        "output": "The CSE department usually has about 200-300 students per batch, contingent on the institution's intake capacity."
+    },
+    {
+        "input": "How many students are there in the CSE department?",
+        "output": "Typically, the CSE department comprises around 200-300 students in each batch, depending on how many the institution can accept."
+    },
+    {
+        "input": "What is the typical batch size of the CSE department?",
+        "output": "Typically, you can expect the CSE department to have around 200-300 students per batch, based on the intake capacity of the college."
+    },
+    {
+        "input": "Can you tell me the number of students in the CSE department?",
+        "output": "The CSE department generally has approximately 200-300 students in each batch, depending on the college's capacity."
+    },
+    {
+        "input": "Are there any scholarships specifically for CSE students?",
+        "output": "Yes, scholarships are provided based on merit, financial need, or results from national-level exams."
+    },
+    {
+        "input": "Can CSE students apply for scholarships?",
+        "output": "Indeed, scholarships are offered based on merit, financial need, or performance in national-level examinations."
+    },
+    {
+        "input": "What scholarships are available for CSE students?",
+        "output": "Scholarships are accessible, determined by merit, financial need, or scores from national exams."
+    },
+    {
+        "input": "Is there financial aid available for CSE students?",
+        "output": "Certainly! Financial aid is available based on merit, financial requirements, or national examination performance."
+    },
+    {
+        "input": "What is the process for transferring to the CSE department?",
+        "output": "The transfer procedure is generally based on the college’s policies, including criteria for eligibility and academic standing."
+    },
+    {
+        "input": "How can a student transfer to the CSE department?",
+        "output": "The transfer process is usually contingent on the institution’s regulations, including eligibility requirements and academic performance."
+    },
+    {
+        "input": "What are the transfer requirements for the CSE department?",
+        "output": "Transfer criteria generally align with the college's regulations, which include eligibility standards and academic achievements."
+    },
+    {
+        "input": "Can you explain the transfer process to the CSE department?",
+        "output": "Transfer processes are primarily based on the institution's policies, encompassing eligibility criteria and academic performance."
+    },
+    {
+        "input": "Are there study abroad or exchange programs for CSE students?",
+        "output": "Yes, several institutions collaborate with foreign universities to offer study abroad or exchange programs."
+    },
+    {
+        "input": "Does the CSE department offer exchange programs?",
+        "output": "Some colleges provide study abroad or exchange programs in partnership with international universities."
+    },
+    {
+        "input": "Can CSE students participate in study abroad programs?",
+        "output": "Absolutely! Many institutions facilitate study abroad or exchange opportunities in collaboration with global universities."
+    },
+    {
+        "input": "What study abroad options are available for CSE students?",
+        "output": "Various study abroad or exchange programs are offered by some institutions in partnership with overseas universities."
+    },
+    {
+        "input": "What career paths do CSE graduates typically pursue?",
+        "output": "CSE graduates often work as software developers, data scientists, network engineers, cybersecurity specialists, or explore new fields like AI and Blockchain."
+    },
+    {
+        "input": "What jobs do CSE graduates usually get?",
+        "output": "Common roles for CSE graduates include software development, data science, network engineering, cybersecurity, and emerging areas such as AI and Blockchain."
+    },
+    {
+        "input": "What are the common career options for CSE graduates?",
+        "output": "CSE graduates typically find careers as software developers, data scientists, network engineers, cybersecurity experts, or in new domains like AI and Blockchain."
+    },
+    {
+        "input": "Can you tell me about the career paths of CSE graduates?",
+        "output": "CSE graduates usually enter fields like software development, data science, network engineering, cybersecurity, or emerging sectors like AI and Blockchain."
+    },
+    {
+        "input": "What research opportunities are available in the CSE department?",
+        "output": "Students have the chance to work with faculty on research initiatives in areas like AI, Machine Learning, Data Science, and more, including publishing research papers."
+    },
+    {
+        "input": "Can you tell me about the research opportunities in CSE?",
+        "output": "Students can engage in research projects with faculty in AI, Machine Learning, Data Science, and more, and there are chances to publish research findings."
+    },
+    {
+        "input": "Are there research projects for CSE students?",
+        "output": "Yes, students can collaborate with faculty on research projects in fields like AI, Machine Learning, Data Science, and there are opportunities for publication."
+    },
+    {
+        "input": "What kind of research opportunities do CSE students have?",
+        "output": "CSE students can work on research projects alongside faculty in areas such as AI, Machine Learning, Data Science, and more, with publication opportunities available."
+    },
+    {
+        "input": "Can students participate in research projects?",
+        "output": "Definitely! Students are encouraged to take part in ongoing research projects, particularly in their final year."
+    },
+    {
+        "input": "Are CSE students allowed to participate in research projects?",
+        "output": "Yes, participation in ongoing research projects is encouraged for CSE students, especially during their final year."
+    },
+    {
+        "input": "Can students get involved in research work in CSE?",
+        "output": "Absolutely! CSE students are motivated to participate in ongoing research projects, especially as they approach graduation."
+    },
+    {
+        "input": "Are CSE students encouraged to join research projects?",
+        "output": "Yes, CSE students are strongly encouraged to get involved in research projects, particularly during their final year."
+    },
+    {
+        "input": "Who is the head of the R&D in the CSE department?",
+        "output": "The R&D head is usually a senior faculty member with significant research expertise in the field of Computer Science."
+    },
+    {
+        "input": "Can you tell me who leads R&D in the CSE department?",
+        "output": "Typically, the head of R&D is a senior faculty member who possesses extensive experience in Computer Science research."
+    },
+    {
+        "input": "Who is responsible for R&D in the CSE department?",
+        "output": "The head of R&D is usually a senior faculty member with a wealth of experience in the Computer Science field."
+    },
+    {
+        "input": "Who heads the research and development team in CSE?",
+        "output": "Typically, the head of R&D is a senior faculty member with considerable research experience in Computer Science."
+    },
+    {
+        "input": "Are there any ongoing research projects in AI, Machine Learning, or Data Science?",
+        "output": "Yes, there are ongoing research initiatives that typically focus on areas such as AI, Machine Learning, Data Science, and Cybersecurity."
+    },
+    {
+        "input": "Is there ongoing research in AI, Machine Learning, or Data Science in CSE?",
+        "output": "Yes, ongoing research initiatives typically concentrate on AI, Machine Learning, Data Science, and Cybersecurity."
+    },
+    {
+        "input": "What are the ongoing research projects in AI or Machine Learning?",
+        "output": "Yes, ongoing research initiatives often emphasize AI, Machine Learning, Data Science, and Cybersecurity."
+    },
+    {
+        "input": "Can you tell me about current research in AI, ML, or Data Science?",
+        "output": "Yes, there are ongoing research initiatives that usually focus on AI, Machine Learning, Data Science, and Cybersecurity."
+    },
+    {
+        "input": "What are the internship opportunities for CSE students?",
+        "output": "Internships can be found through partnerships between colleges and industries. Students may also pursue internships at technology companies like TCS, Infosys, or startups."
+    },
+    {
+        "input": "Can you tell me about the internships available for CSE students?",
+        "output": "Internships are accessible through collaborations between colleges and industries. Students can also look for opportunities at tech companies such as TCS, Infosys, or startups."
+    },
+    {
+        "input": "Are there internship opportunities for CSE students?",
+        "output": "Internships are available through college-industry collaborations, and students can also seek positions at tech firms like TCS, Infosys, or various startups."
+    },
+    {
+        "input": "Where can CSE students find internship opportunities?",
+        "output": "Internship opportunities are offered through partnerships between colleges and industries. Students may also find internships at tech companies like TCS, Infosys, or startups."
+    },
+    {
+        "input": "What companies offer internships to CSE students?",
+        "output": "Companies such as TCS, Infosys, Amazon, and Microsoft provide internships for CSE students, and startups and research institutions are also popular options."
+    },
+    {
+        "input": "Which companies provide internships for CSE students?",
+        "output": "Internships for CSE students are offered by companies like TCS, Infosys, Amazon, and Microsoft, along with various startups and research institutions."
+    },
+    {
+        "input": "Can you list companies that offer internships to CSE students?",
+        "output": "Companies like TCS, Infosys, Amazon, and Microsoft provide internship opportunities for CSE students, and startups and research institutions are frequently sought after."
+    },
+    {
+        "input": "Which companies have internship programs for CSE students?",
+        "output": "CSE students can find internships at companies like TCS, Infosys, Amazon, and Microsoft, as well as at numerous startups and research institutions."
+    },
+    {
+        "input": "What is the highest salary package offered to CSE students?",
+        "output": "The highest salary package can differ each year, typically ranging from ₹12-30 LPA, influenced by the employer and the student’s performance."
+    },
+    {
+        "input": "How much is the highest salary offered to CSE graduates?",
+        "output": "The highest salary package varies yearly, generally falling between ₹12-30 LPA, depending on the recruiting company and student achievements."
+    },
+    {
+        "input": "What is the maximum salary package a CSE student can receive?",
+        "output": "The top salary package varies annually, usually between ₹12-30 LPA, based on the employer and the student’s performance."
+    },
+    {
+        "input": "Can you tell me the highest salary package for CSE students?",
+        "output": "The highest salary package changes from year to year, commonly ranging from ₹12-30 LPA, determined by the recruiter and student results."
+    },
+    {
+        "input": "Does the CSE department have a coding club or hackathon team?",
+        "output": "Yes, there is usually a coding club that organizes hackathons, coding contests, and peer programming activities."
+    },
+    {
+        "input": "Is there a coding club in the CSE department?",
+        "output": "Yes, typically there is a coding club that arranges hackathons, coding competitions, and peer programming events."
+    },
+    {
+        "input": "Does CSE organize hackathons or coding competitions?",
+        "output": "Yes, a coding club typically organizes hackathons, coding contests, and peer programming sessions."
+    },
+    {
+        "input": "Are there any coding clubs or teams for hackathons in CSE?",
+        "output": "Yes, there is often a coding club that organizes hackathons, coding competitions, and peer programming activities."
+    },
+    {
+        "input": "What tech events or competitions are held in the CSE department?",
+        "output": "The CSE department regularly hosts tech fests, hackathons, and coding competitions like CodeSprint and CodeJam."
+    },
+    {
+        "input": "Can you tell me about the tech events organized by CSE?",
+        "output": "The CSE department organizes tech fests, hackathons, and coding contests such as CodeSprint and CodeJam on a regular basis."
+    },
+    {
+        "input": "What competitions take place in the CSE department?",
+        "output": "The CSE department frequently organizes tech fests, hackathons, and coding competitions like CodeSprint and CodeJam."
+    },
+    {
+        "input": "Are there any coding competitions or tech fests in CSE?",
+        "output": "Yes, the CSE department regularly hosts tech fests, hackathons, and coding competitions such as CodeSprint and CodeJam."
+    },
+    {
+        "input": "Is there a student chapter for professional organizations like ACM or IEEE in CSE?",
+        "output": "Yes, many CSE departments maintain student chapters for organizations like ACM, IEEE, and CSI (Computer Society of India)."
+    },
+    {
+        "input": "Does the CSE department have ACM or IEEE student chapters?",
+        "output": "Yes, many CSE departments have student chapters for organizations such as ACM, IEEE, and CSI (Computer Society of India)."
+    },
+    {
+        "input": "Are there any professional organizations like ACM or IEEE associated with CSE?",
+        "output": "Yes, many CSE departments have student chapters linked to organizations like ACM, IEEE, and CSI (Computer Society of India)."
+    },
+    {
+        "input": "Can I join a student chapter for ACM or IEEE in CSE?",
+        "output": "Yes, many CSE departments host student chapters for organizations such as ACM, IEEE, and CSI (Computer Society of India)."
+    },
+    {
+        "input": "Are there any workshops or guest lectures for CSE students?",
+        "output": "There are workshops on new technologies like AI, Blockchain, and Cloud Computing, as well as guest lectures from industry professionals."
+    },
+    {
+        "input": "Does CSE organize workshops or industry guest lectures?",
+        "output": "Workshops focused on emerging technologies such as AI, Blockchain, and Cloud Computing are offered, along with guest lectures from industry experts."
+    },
+    {
+        "input": "What workshops are available for CSE students?",
+        "output": "CSE students have access to workshops that cover emerging technologies like AI, Blockchain, and Cloud Computing, alongside guest lectures from industry specialists."
+    },
+    {
+        "input": "Can you tell me if there are any guest lectures for CSE students?",
+        "output": "Yes, there are workshops on emerging technologies like AI, Blockchain, and Cloud Computing, along with guest lectures by industry professionals."
+    },
+    {
+        "input": "What are the lab facilities available for CSE students?",
+        "output": "CSE students can access labs including programming labs, network labs, AI labs, and cybersecurity labs, all furnished with the latest hardware and software."
+    },
+    {
+        "input": "Can you tell me about the lab facilities in the CSE department?",
+        "output": "The CSE department offers labs such as programming labs, network labs, AI labs, and cybersecurity labs, equipped with up-to-date hardware and software tools."
+    },
+    {
+        "input": "What types of labs do CSE students have access to?",
+        "output": "Labs available for CSE students include programming labs, network labs, AI labs, and cybersecurity labs, which are equipped with modern hardware and software."
+    },
+    {
+        "input": "What lab resources are provided for CSE students?",
+        "output": "CSE students have access to labs such as programming labs, network labs, AI labs, and cybersecurity labs, which feature the latest hardware and software tools."
+    },
+    {
+        "input": "Is there a dedicated computer lab for CSE?",
+        "output": "Yes, the CSE department is equipped with several dedicated computer labs that feature high-speed internet and advanced computing systems."
+    },
+    {
+        "input": "Does the CSE department have its own computer lab?",
+        "output": "Indeed, the CSE department has multiple dedicated computer labs that offer high-speed internet and advanced computing capabilities."
+    },
+    {
+        "input": "Are there any dedicated labs for CSE students?",
+        "output": "Yes, there are several dedicated computer labs within the CSE department, equipped with high-speed internet and state-of-the-art computing systems."
+    },
+    {
+        "input": "Does CSE have exclusive computer labs?",
+        "output": "Yes, the CSE department has various dedicated computer labs that provide high-speed internet and cutting-edge computing resources."
+    },
+    {
+        "input": "Can I work on my own project in the CSE lab?",
+        "output": "Yes, students are encouraged to utilize lab facilities for their personal projects, as long as they comply with lab guidelines and availability."
+    },
+    {
+        "input": "Is it possible to use the CSE lab for personal projects?",
+        "output": "Absolutely, students are welcome to work on personal projects in the lab, provided they follow the established guidelines and check availability."
+    },
+    {
+        "input": "Are students allowed to work on their own projects in the CSE lab?",
+        "output": "Yes, students can definitely use the lab facilities for personal projects, as long as they adhere to the lab rules and check for availability."
+    },
+    {
+        "input": "Can I use the CSE lab for individual project work?",
+        "output": "Certainly, students are encouraged to take advantage of lab facilities for individual projects, as long as they comply with lab guidelines and availability."
+    },
+    {
+        "input": "What are the lab facilities available for CSE students?",
+        "output": "CSE students can access various labs, including programming, networking, AI, and cybersecurity labs, all equipped with state-of-the-art hardware and software tools."
+    },
+    {
+        "input": "Can you tell me about the lab facilities in the CSE department?",
+        "output": "CSE students can utilize various labs, such as programming, networking, AI, and cybersecurity labs, which come with the latest hardware and software tools."
+    },
+    {
+        "input": "What types of labs do CSE students have access to?",
+        "output": "CSE students can access several labs, including programming, networking, AI, and cybersecurity labs, equipped with cutting-edge hardware and software tools."
+    },
+    {
+        "input": "What lab resources are provided for CSE students?",
+        "output": "CSE students have access to programming, networking, AI, and cybersecurity labs, all featuring the latest hardware and software tools."
+    },
+    {
+        "input": "Is there a dedicated computer lab for CSE?",
+        "output": "Yes, the CSE department features several dedicated computer labs with high-speed internet and advanced computing systems."
+    },
+    {
+        "input": "Does the CSE department have its own computer lab?",
+        "output": "Absolutely, the CSE department has multiple dedicated computer labs that provide high-speed internet and advanced computing resources."
+    },
+    {
+        "input": "Are there any dedicated labs for CSE students?",
+        "output": "Yes, the CSE department offers multiple dedicated computer labs equipped with high-speed internet and advanced computing capabilities."
+    },
+    {
+        "input": "Does CSE have exclusive computer labs?",
+        "output": "Yes, the CSE department has several dedicated computer labs that include high-speed internet and advanced computing systems."
+    },
+    {
+        "input": "Can I work on my own project in the CSE lab?",
+        "output": "Yes, students are encouraged to utilize the lab facilities for their personal projects, as long as they adhere to lab guidelines and availability."
+    },
+    {
+        "input": "Is it possible to use the CSE lab for personal projects?",
+        "output": "Yes, students are encouraged to take advantage of the lab facilities for personal projects, provided they follow the established lab guidelines and availability."
+    },
+    {
+        "input": "Are students allowed to work on their own projects in the CSE lab?",
+        "output": "Yes, students are welcome to use lab facilities for their personal projects, as long as they comply with lab rules and availability."
+    },
+    {
+        "input": "Can I use the CSE lab for individual project work?",
+        "output": "Yes, students are encouraged to leverage the lab facilities for personal projects, provided they adhere to lab guidelines and availability."
+    },
+    {
+        "input": "Are there any specialized labs for AI, Cybersecurity, or Machine Learning?",
+        "output": "Yes, many CSE departments feature specialized labs dedicated to AI, Machine Learning, Data Science, and Cybersecurity."
+    },
+    {
+        "input": "Does the CSE department have labs for AI and Cybersecurity?",
+        "output": "Yes, many CSE departments provide specialized labs that focus on AI, Machine Learning, Data Science, and Cybersecurity."
+    },
+    {
+        "input": "Are there specialized labs for advanced topics like AI and Machine Learning?",
+        "output": "Yes, numerous CSE departments have specialized labs aimed at AI, Machine Learning, Data Science, and Cybersecurity."
+    },
+    {
+        "input": "Can you tell me if there are labs focused on AI, ML, or Cybersecurity in CSE?",
+        "output": "Yes, many CSE departments include specialized labs that focus on AI, Machine Learning, Data Science, and Cybersecurity."
+    },
+    {
+        "input": "Are there elective subjects in the CSE department?",
+        "output": "Yes, students typically have the option to choose from electives like AI, Data Analytics, Cloud Computing, and Blockchain in their later semesters."
+    },
+    {
+        "input": "Can students choose electives in the CSE department?",
+        "output": "Yes, students generally have the opportunity to select from elective subjects such as AI, Data Analytics, Cloud Computing, and Blockchain in the later semesters."
+    },
+    {
+        "input": "Does the CSE curriculum offer elective courses?",
+        "output": "Yes, students usually have the option to select from elective subjects such as AI, Data Analytics, Cloud Computing, and Blockchain in the later semesters."
+    },
+    {
+        "input": "What elective subjects are available in CSE?",
+        "output": "Yes, students can typically choose from elective subjects including AI, Data Analytics, Cloud Computing, and Blockchain in the later semesters."
+    },
+    {
+        "input": "Is there an internship program for CSE students?",
+        "output": "Yes, students are encouraged to participate in internships during their third and final years, with some opportunities facilitated by the college through industry partnerships."
+    },
+    {
+        "input": "Do CSE students have to do internships?",
+        "output": "Yes, students are encouraged to engage in internships during their third and final years, with some placements supported by the college through industry collaborations."
+    },
+    {
+        "input": "Are internships offered in the CSE department?",
+        "output": "Yes, students are encouraged to pursue internships during their third and final years, with some opportunities arranged by the college through industry connections."
+    },
+    {
+        "input": "Can CSE students participate in internships?",
+        "output": "Yes, students are encouraged to complete internships during their third and final years, with some facilitated by the college through partnerships with industry."
+    },
+    {
+        "input": "What is the syllabus for Semester VI in CSE?",
+        "output": "The syllabus usually covers subjects such as Operating Systems, Artificial Intelligence, Web Technology, Data Mining, and elective courses."
+    },
+    {
+        "input": "Can you tell me the subjects in the 6th semester of CSE?",
+        "output": "The syllabus typically includes subjects like Operating Systems, Artificial Intelligence, Web Technology, Data Mining, and elective courses."
+    },
+    {
+        "input": "What do students study in Semester VI in CSE?",
+        "output": "The syllabus generally includes subjects such as Operating Systems, Artificial Intelligence, Web Technology, Data Mining, and elective courses."
+    },
+    {
+        "input": "What courses are taught in the 6th semester of CSE?",
+        "output": "The syllabus typically comprises subjects like Operating Systems, Artificial Intelligence, Web Technology, Data Mining, and elective courses."
+    },
+    {
+        "input": "What tools and software do students learn in CSE?",
+        "output": "Students acquire knowledge of tools such as C, Python, Java, C++, SQL/DBMS, along with specialized software like MATLAB, TensorFlow, and Hadoop, based on the curriculum."
+    },
+    {
+        "input": "Which programming languages and tools are taught in CSE?",
+        "output": "Students gain experience with languages and tools like C, Python, Java, C++, SQL/DBMS, as well as specialized software like MATLAB, TensorFlow, and Hadoop, depending on the curriculum."
+    },
+    {
+        "input": "What software skills do CSE students acquire?",
+        "output": "Students develop skills in tools such as C, Python, Java, C++, SQL/DBMS, and specialized software like MATLAB, TensorFlow, and Hadoop, according to the curriculum."
+    },
+    {
+        "input": "Can you list the tools and software used in CSE?",
+        "output": "Students become familiar with tools like C, Python, Java, C++, SQL/DBMS, and specialized software like MATLAB, TensorFlow, and Hadoop, based on the curriculum."
+    },
+    {
+        "input": "Are there any project-based courses in the CSE curriculum?",
+        "output": "Yes, students are expected to complete a capstone project in their final year, often collaborating with industry partners."
+    },
+    {
+        "input": "Do CSE students have project-based courses?",
+        "output": "Yes, students are required to undertake a capstone project in their final year, often in partnership with industry."
+    },
+    {
+        "input": "Is there a capstone project in the CSE curriculum?",
+        "output": "Yes, students are mandated to complete a capstone project in their final year, frequently involving industry collaboration."
+    },
+    {
+        "input": "What kind of projects do CSE students work on?",
+        "output": "Students are expected to undertake a capstone project in their final year, often collaborating with industry partners."
+    },
+    {
+        "input": "What specializations are available in the CSE department?",
+        "output": "The CSE department generally provides specializations in fields like Artificial Intelligence, Machine Learning, Data Science, Cybersecurity, Cloud Computing, and Software Engineering."
+    },
+    {
+        "input": "Which areas can I specialize in CSE?",
+        "output": "The CSE department typically offers specializations in domains such as Artificial Intelligence, Machine Learning, Data Science, Cybersecurity, Cloud Computing, and Software Engineering."
+    },
+    {
+        "input": "What specializations does the CSE department offer?",
+        "output": "The CSE department usually provides specializations in areas like Artificial Intelligence, Machine Learning, Data Science, Cybersecurity, Cloud Computing, and Software Engineering."
+    },
+    {
+        "input": "Can you tell me the available specializations in CSE?",
+        "output": "The CSE department typically offers specializations in areas such as Artificial Intelligence, Machine Learning, Data Science, Cybersecurity, Cloud Computing, and Software Engineering."
+    },
+    {
+        "input": "Is there an M.Tech program in CSE?",
+        "output": "Yes, the M.Tech program in CSE typically offers specializations in Advanced Computing, AI, Data Science, Cybersecurity, and other fields, depending on the institution."
+    },
+    {
+        "input": "Does CSE offer an M.Tech degree?",
+        "output": "Yes, the M.Tech program in CSE generally provides specializations in Advanced Computing, AI, Data Science, Cybersecurity, and other areas, depending on the institution."
+    },
+    {
+        "input": "What M.Tech specializations are offered in CSE?",
+        "output": "Yes, the M.Tech program in CSE typically offers specializations in Advanced Computing, AI, Data Science, Cybersecurity, and more, depending on the institution."
+    },
+    {
+        "input": "Can I pursue M.Tech in CSE, and what are the specializations?",
+        "output": "Yes, the M.Tech program in CSE typically provides specializations in Advanced Computing, AI, Data Science, Cybersecurity, and other fields, based on the institution."
+    },
+    {
+        "input": "What is the eligibility criteria for admission to the CSE department?",
+        "output": "The eligibility requirements generally include completing 10+2 with Physics, Chemistry, and Mathematics, along with a qualifying score in an entrance exam such as JEE Main, EAMCET, or equivalent."
+    },
+    {
+        "input": "How do I become eligible for CSE?",
+        "output": "To be eligible for CSE, you generally need to complete 10+2 with Physics, Chemistry, and Mathematics, and obtain a qualifying score in an entrance exam such as JEE Main, EAMCET, or equivalent."
+    },
+    {
+        "input": "What are the requirements to join the CSE department?",
+        "output": "The eligibility criteria usually involve completion of 10+2 with Physics, Chemistry, and Mathematics, alongside a qualifying score in an entrance exam like JEE Main, EAMCET, or equivalent."
+    },
+    {
+        "input": "Can you tell me the qualifications for CSE admission?",
+        "output": "The qualifications typically require completion of 10+2 with Physics, Chemistry, and Mathematics, and achieving a qualifying score in an entrance exam such as JEE Main, EAMCET, or equivalent."
+    },
+    {
+        "input": "Can you tell me about the placement statistics for the CSE department?",
+        "output": "The placement statistics are usually favorable, with a majority of students securing positions in leading tech companies. The average placement rate tends to be around 80-90%, depending on the year."
+    },
+    {
+        "input": "What are the placement rates in CSE?",
+        "output": "Placement rates are typically high, with most students landing jobs at top tech firms. The average placement rate is generally around 80-90%, varying by year."
+    },
+    {
+        "input": "How are placements in the CSE department?",
+        "output": "The placement statistics are generally strong, with most students securing roles in leading tech companies. The average placement rate can be around 80-90%, subject to yearly variations."
+    },
+    {
+        "input": "Can you provide the placement data for CSE?",
+        "output": "The placement data typically shows high rates, with the majority of students obtaining positions in top tech firms. The average placement rate can hover around 80-90%, varying each year."
+    },
+    {
+        "input": "Which companies visit the CSE department for campus placements?",
+        "output": "Companies such as TCS, Infosys, Wipro, Cognizant, Amazon, Google, Microsoft, and Accenture frequently recruit CSE students."
+    },
+    {
+        "input": "What companies recruit from the CSE department?",
+        "output": "Recruiters for CSE students typically include TCS, Infosys, Wipro, Cognizant, Amazon, Google, Microsoft, and Accenture."
+    },
+    {
+        "input": "Can you tell me the recruiters visiting CSE for placements?",
+        "output": "Companies like TCS, Infosys, Wipro, Cognizant, Amazon, Google, Microsoft, and Accenture are common employers for CSE students."
+    },
+    {
+        "input": "Which companies hire from the CSE department?",
+        "output": "CSE students are often recruited by companies such as TCS, Infosys, Wipro, Cognizant, Amazon, Google, Microsoft, and Accenture."
+    },
+    {
+        "input": "What are the research areas in the CSE department?",
+        "output": "Research focuses include areas such as Artificial Intelligence, Machine Learning, Big Data, Cloud Computing, Cybersecurity, Blockchain, and IoT."
+    },
+    {
+        "input": "Which research fields are focused on in CSE?",
+        "output": "The department emphasizes research areas like Artificial Intelligence, Machine Learning, Big Data, Cloud Computing, Cybersecurity, Blockchain, and IoT."
+    },
+    {
+        "input": "Can you tell me the research specializations in CSE?",
+        "output": "Research specializations in CSE encompass fields such as Artificial Intelligence, Machine Learning, Big Data, Cloud Computing, Cybersecurity, Blockchain, and IoT."
+    },
+    {
+        "input": "What are the key research domains in CSE?",
+        "output": "Key research domains in CSE include Artificial Intelligence, Machine Learning, Big Data, Cloud Computing, Cybersecurity, Blockchain, and IoT."
+    },
+    {
+        "input": "Can you provide details about the faculty in the CSE department?",
+        "output": "The faculty consists of seasoned professors with PhDs across various specializations, alongside industry experts and adjunct faculty members."
+    },
+    {
+        "input": "Who are the faculty members in the CSE department?",
+        "output": "The faculty typically includes experienced professors with PhDs in diverse specializations, as well as industry experts and adjunct faculty members."
+    },
+    {
+        "input": "Can you tell me about the professors in the CSE department?",
+        "output": "The faculty generally comprises experienced professors with PhDs in various fields, along with industry professionals and adjunct faculty."
+    },
+    {
+        "input": "What can you tell me about the CSE faculty?",
+        "output": "The faculty is typically made up of experienced professors holding PhDs in different specializations, in addition to industry experts and adjunct instructors."
+    },
+    {
+        "input": "What courses can I take in the CSE department?",
+        "output": "The CSE department offers courses such as Data Structures, Algorithms, Computer Networks, Operating Systems, Artificial Intelligence, Machine Learning, and Web Development."
+    },
+    {
+        "input": "Could you tell me the subjects offered in CSE?",
+        "output": "Courses offered in the CSE department typically include Data Structures, Algorithms, Computer Networks, Operating Systems, Artificial Intelligence, Machine Learning, and Web Development."
+    },
+    {
+        "input": "Which subjects are included in the CSE curriculum?",
+        "output": "The CSE curriculum generally features subjects such as Data Structures, Algorithms, Computer Networks, Operating Systems, Artificial Intelligence, Machine Learning, and Web Development."
+    },
+    {
+        "input": "Can you list the courses available in CSE?",
+        "output": "The CSE department typically provides courses like Data Structures, Algorithms, Computer Networks, Operating Systems, Artificial Intelligence, Machine Learning, and Web Development."
+    },
+    {
+        "input": "What is the teaching methodology used in the CSE department?",
+        "output": "Teaching methodologies often include lectures, hands-on labs, projects, case studies, and collaborative group work."
+    },
+    {
+        "input": "Can you explain the teaching methods in CSE?",
+        "output": "Teaching methods typically involve lectures, practical lab sessions, projects, case studies, and teamwork."
+    },
+    {
+        "input": "What teaching approaches are employed in CSE?",
+        "output": "The teaching approaches generally consist of lectures, practical labs, projects, case studies, and collaborative group work."
+    },
+    {
+        "input": "How is the teaching conducted in the CSE department?",
+        "output": "Teaching is usually conducted through lectures, hands-on lab sessions, projects, case studies, and group collaboration."
+    },
+    {
+        "input": "What are the eligibility requirements for the CSE program?",
+        "output": "To enroll in the CSE program, students must have completed 10+2 with Physics, Chemistry, and Mathematics and passed an entrance exam like JEE Main or a state-level test."
+    },
+    {
+    "input": "How can I apply for the CSE department?",
+    "output": "Applications for the CSE department can be submitted online through the university’s admission portal after meeting the eligibility criteria."
+    },
+    {
+    "input": "What qualifications do I need to join CSE?",
+    "output": "Candidates should have completed 10+2 with Physics, Chemistry, and Mathematics, along with a valid score in an entrance exam."
+    },
+    {
+    "input": "What is required to enroll in the CSE department?",
+    "output": "Enrollment in the CSE department requires passing an entrance exam and fulfilling the educational qualifications of 10+2 in relevant subjects."
+    },
+    {
+    "input": "How do I qualify for the CSE program?",
+    "output": "Qualifying for the CSE program involves passing an entrance examination such as JEE Main or a state-level equivalent after completing 10+2."
+    },
+    {
+    "input": "What research projects can CSE students participate in?",
+    "output": "CSE students have the opportunity to engage in research projects focusing on areas like Artificial Intelligence, Data Science, and Cybersecurity, often under faculty mentorship."
+    },
+    {
+    "input": "Are research opportunities available in the CSE department?",
+    "output": "Yes, students in the CSE department can participate in various research initiatives and collaborative projects led by faculty members."
+    },
+    {
+    "input": "What fields of research are open to CSE students?",
+    "output": "Research fields available to CSE students include Artificial Intelligence, Machine Learning, and Cybersecurity, among others."
+    },
+    {
+    "input": "Can I participate in research as a CSE student?",
+    "output": "Absolutely! CSE students can participate in faculty-led research projects that enhance their learning and practical skills."
+    },
+    {
+    "input": "What kind of research work can be done in the CSE department?",
+    "output": "Students can work on projects in emerging fields such as AI, Machine Learning, and Data Science, contributing to innovative solutions."
+    },
+    {
+    "input": "How long does the CSE program last?",
+    "output": "The CSE program typically lasts four years, culminating in a Bachelor of Technology (B.Tech) degree."
+    },
+    {
+    "input": "What is the duration of the CSE degree?",
+    "output": "The duration for completing the CSE degree is generally four years of full-time study."
+    },
+    {
+    "input": "How many years does it take to complete CSE?",
+    "output": "It takes four years to complete the CSE program, resulting in a B.Tech degree."
+    },
+    {
+    "input": "What is the length of the CSE course?",
+    "output": "The CSE course is designed to be completed in four years, offering a comprehensive curriculum."
+    },
+    {
+    "input": "How many years does the CSE program take?",
+    "output": "Typically, the CSE program spans four years, leading to a B.Tech in Computer Science and Engineering."
+    },
+    {
+    "input": "What job opportunities are there after studying CSE?",
+    "output": "After graduation, CSE students can explore careers in software development, data science, and cybersecurity, among others."
+    },
+    {
+    "input": "What careers are available for CSE graduates?",
+    "output": "CSE graduates can pursue various roles such as software engineer, data analyst, and network engineer across multiple industries."
+    },
+    {
+    "input": "What career paths can I pursue after CSE?",
+    "output": "Graduates can choose from careers in software engineering, data analysis, AI development, and more in tech-driven fields."
+    },
+    {
+    "input": "What jobs can I get with a CSE degree?",
+    "output": "With a CSE degree, you can work as a software developer, data scientist, or cybersecurity expert, among other positions."
+    },
+    {
+    "input": "What are the employment prospects after CSE?",
+    "output": "CSE graduates have excellent job prospects in software, data analysis, and cybersecurity sectors, with many opportunities in tech companies."
+    },
+    {
+    "input": "Are there any scholarships for CSE students?",
+    "output": "Yes, various scholarships are available based on academic performance and financial need, with detailed information provided by the department."
+    },
+    {
+    "input": "Can I apply for scholarships in the CSE department?",
+    "output": "CSE students can apply for scholarships that cater to both merit and financial need, enhancing their educational experience."
+    },
+    {
+    "input": "Does the CSE department provide scholarships?",
+    "output": "The department offers several scholarship options for students, aiming to support those with exceptional academic performance or financial needs."
+    },
+    {
+    "input": "Is financial aid available for CSE students?",
+    "output": "Yes, financial aid options, including scholarships and grants, are available to assist students in the CSE program."
+    },
+    {
+    "input": "Are there any financial aid options for CSE students?",
+    "output": "CSE students can access financial aid options, including scholarships based on merit and need, to support their studies."
+    },
+    {
+    "input": "What events are organized by the CSE department?",
+    "output": "The CSE department hosts a range of events, including tech fests, coding competitions, hackathons, and guest lectures from industry professionals to help students develop both technical and interpersonal skills."
+    },
+    {
+    "input": "Does the CSE department host any technical events?",
+    "output": "Yes, the CSE department holds several technical events such as tech fests, coding competitions, hackathons, and guest lectures featuring experts from the industry to enhance students' skills."
+    },
+    {
+    "input": "Are there any tech fests in the CSE department?",
+    "output": "Absolutely! The CSE department organizes various tech-related events like tech fests, coding competitions, hackathons, and guest lectures by industry leaders to foster students' skills."
+    },
+    {
+    "input": "What activities does the CSE department organize?",
+    "output": "The CSE department arranges numerous activities, including tech fests, coding challenges, hackathons, and guest lectures from experts in the field, aimed at boosting students' skills."
+    },
+    {
+    "input": "Are there any competitions or events for CSE students?",
+    "output": "Yes, the CSE department organizes various competitions and events, such as tech fests, coding contests, hackathons, and guest lectures from industry professionals to enhance students' skill sets."
+    },
+    {
+    "input": "Does the CSE program include project-based courses?",
+    "output": "Yes, project-based courses are a key component of the CSE curriculum, particularly in the final year, where students work on practical projects in areas like AI, web development, and mobile applications."
+    },
+    {
+    "input": "Can I work on hands-on projects in CSE?",
+    "output": "Certainly! The CSE curriculum features project-based courses, especially in the final year, where students are encouraged to engage in real-world projects focusing on AI, web development, and mobile applications."
+    },
+    {
+    "input": "Are real-world projects part of the CSE curriculum?",
+    "output": "Yes, the curriculum includes project-based learning, particularly in the final year, where students tackle real-world projects in fields such as AI, web development, and mobile app development."
+    },
+    {
+    "input": "Will I be doing projects in the CSE department?",
+    "output": "Absolutely! The CSE program emphasizes project-based courses in the final year, encouraging students to work on practical projects in areas like AI, web development, and mobile application development."
+    },
+    {
+    "input": "Does the CSE program offer practical project work?",
+    "output": "Yes, practical project work is an integral part of the CSE program, especially during the final year, where students focus on real-world projects related to AI, web development, and mobile apps."
+    },
+    {
+    "input": "How are CSE students graded?",
+    "output": "CSE students are assessed through a mix of theoretical exams, practical assignments, lab work, project submissions, and oral exams. Continuous assessments and end-of-semester exams collectively determine their final grades."
+    },
+    {
+    "input": "What is the evaluation system in CSE?",
+    "output": "The evaluation system for CSE students involves a combination of theory exams, practical assignments, lab activities, project submissions, and viva assessments, contributing to their overall grade."
+    },
+    {
+    "input": "How is student performance measured in the CSE department?",
+    "output": "Student performance in the CSE department is measured through a blend of theory exams, practical assignments, lab work, project presentations, and viva assessments, with continuous internal evaluations."
+    },
+    {
+    "input": "What assessment methods are used in CSE?",
+    "output": "In the CSE program, assessments are conducted using various methods, including theory exams, practical assignments, lab exercises, project submissions, and viva voce evaluations."
+    },
+    {
+    "input": "How is grading done in the CSE program?",
+    "output": "Grading in the CSE program is based on a combination of theory examinations, practical assignments, lab work, project submissions, and viva assessments, alongside continuous internal evaluations."
+    },
+    {
+    "input": "Which programming languages are most important in CSE?",
+    "output": "Essential programming languages for CSE students include Python, Java, and C++. A solid foundation in algorithms, data structures, and problem-solving techniques is also crucial for success."
+    },
+    {
+    "input": "What coding skills should I learn for CSE?",
+    "output": "For CSE, it's vital to learn programming languages like Python, Java, and C++. Additionally, building a strong understanding of algorithms, data structures, and problem-solving skills is essential."
+    },
+    {
+    "input": "Which programming languages are essential for CSE students?",
+    "output": "CSE students should focus on programming languages like Python, Java, and C++. It's equally important to develop a solid grounding in algorithms, data structures, and effective problem-solving techniques."
+    },
+    {
+    "input": "What programming knowledge do I need in CSE?",
+    "output": "To succeed in CSE, students should be proficient in programming languages like Python, Java, and C++. Moreover, having a strong grasp of algorithms, data structures, and problem-solving skills is important."
+    },
+    {
+    "input": "Which coding skills are crucial in the CSE department?",
+    "output": "Critical coding skills for CSE students include proficiency in programming languages like Python, Java, and C++. Additionally, a firm understanding of algorithms, data structures, and problem-solving methods is vital."
+    },
+    {
+    "input": "What are my higher study options after completing CSE?",
+    "output": "Upon completing a B.Tech in CSE, you can pursue further studies such as an M.Tech in areas like Data Science, Artificial Intelligence, or Cybersecurity, or consider an MBA. Additionally, there are opportunities for international programs or a PhD in related fields."
+    },
+    {
+    "input": "Can I continue my studies after a CSE degree?",
+    "output": "Yes, graduates with a B.Tech in CSE can further their education by enrolling in an M.Tech program focusing on fields such as Data Science, AI, Cybersecurity, or even pursuing an MBA. Options for international programs or a PhD in relevant areas are also available."
+    },
+    {
+    "input": "What are the further education opportunities after CSE?",
+    "output": "After earning a B.Tech in CSE, students can opt for an M.Tech in specializations like Data Science, Artificial Intelligence, or Cybersecurity, or they might choose to pursue an MBA. There are also opportunities for international studies or doctoral programs in similar domains."
+    },
+    {
+    "input": "Which postgraduate programs can I pursue after CSE?",
+    "output": "Following the completion of a B.Tech in CSE, students have the option to enroll in an M.Tech program focusing on Data Science, Artificial Intelligence, or Cybersecurity, and they can also consider an MBA. International programs and PhD opportunities in related fields are available too."
+    },
+    {
+    "input": "What are my academic options after finishing CSE?",
+    "output": "Upon finishing a B.Tech in CSE, students can consider advancing their education with an M.Tech in areas like Data Science, AI, or Cybersecurity, or they can pursue an MBA. Options for international studies or a PhD in related fields are also open."
+    },
+    {
+    "input": "Can CSE students write research papers?",
+    "output": "Absolutely! CSE students are encouraged to publish research papers in both national and international journals and can participate in various conferences. Faculty mentors assist students throughout the research and publication process."
+    },
+    {
+    "input": "Is it possible to publish research as a CSE student?",
+    "output": "Yes, CSE students have the opportunity to publish their research in national and international journals and engage in conferences. Faculty mentors play a crucial role in guiding students through research and publication."
+    },
+    {
+    "input": "Does the CSE department help with research publication?",
+    "output": "Certainly! The CSE department supports students in publishing research papers in national and international journals and in participating in conferences. Faculty mentors are there to guide students through the research and publication journey."
+    },
+    {
+    "input": "How can I get my research published as a CSE student?",
+    "output": "CSE students can publish their research in national and international journals and take part in conferences. Faculty mentors are available to guide them through the research and publication process."
+    },
+    {
+    "input": "What is the process for publishing research in CSE?",
+    "output": "CSE students have the opportunity to publish their research in both national and international journals and participate in various conferences. They receive guidance from faculty mentors throughout the research and publication process."
+    },
+    {
+    "input": "What accreditations does the CSE department hold?",
+    "output": "The CSE department is accredited by both NBA and NAAC, achieving an 'A' grade. It has also been recognized as a research center by JNTUK since the 2019-20 academic year."
+    },
+    {
+    "input": "Is the CSE department accredited?",
+    "output": "Yes, the CSE department has received accreditation from NBA and NAAC with an 'A' grade and has been recognized as a research center by JNTUK since the 2019-20 academic year."
+    },
+    {
+    "input": "Does the CSE department have NBA accreditation?",
+    "output": "Indeed, the CSE department is accredited by NBA and NAAC with an 'A' grade, and it has been recognized as a research center by JNTUK since the 2019-20 academic year."
+    },
+    {
+    "input": "What certifications does the CSE department have?",
+    "output": "The CSE department holds accreditations from both NBA and NAAC with an 'A' grade. It has also been recognized as a research center by JNTUK since the 2019-20 academic year."
+    },
+    {
+    "input": "Is the CSE department recognized by NAAC?",
+    "output": "Yes, the CSE department is accredited by NBA and NAAC with an 'A' grade, and it has been recognized as a research center by JNTUK since the 2019-20 academic year."
+    },
+    {
+    "input": "What research opportunities are available in the CSE department?",
+    "output": "The CSE department provides research opportunities in partnership with JNTUK, particularly in areas like Artificial Intelligence, Data Science, and Machine Learning. Faculty and students are encouraged to engage in research, publish their findings, and participate in conferences."
+    },
+    {
+    "input": "Does the CSE department support research work?",
+    "output": "Yes, the CSE department offers various research opportunities in collaboration with JNTUK, focusing on fields like Artificial Intelligence, Data Science, and Machine Learning. Faculty and students are motivated to engage in research and participate in publications and conferences."
+    },
+    {
+    "input": "Can CSE students participate in research?",
+    "output": "Certainly! The CSE department provides research opportunities in collaboration with JNTUK, especially in domains like Artificial Intelligence, Data Science, and Machine Learning. Faculty and students are encouraged to be active in research, publications, and conferences."
+    },
+    {
+    "input": "What research programs are available in CSE?",
+    "output": "The CSE department offers research opportunities in collaboration with JNTUK, particularly in fields such as Artificial Intelligence, Data Science, and Machine Learning. Faculty and students are encouraged to engage in research activities and participate in publications and conferences."
+    },
+    {
+    "input": "What research fields are available in the CSE department?",
+    "output": "The CSE department provides research opportunities in collaboration with JNTUK, focusing on areas like Artificial Intelligence, Data Science, and Machine Learning. Faculty and students are motivated to engage in research, publication, and conference participation."
+    },
+    {
+    "input": "What faculty development programs are offered in CSE?",
+    "output": "The CSE department organizes Faculty Development Programs (FDPs), including a practical workshop called 'Python Programming: A Practical Approach,' which focuses on fundamental and advanced concepts of Python programming."
+    },
+    {
+        "input": "Does the CSE department offer any FDPs?",
+        "output": "Yes, the CSE department runs Faculty Development Programs (FDPs), featuring a hands-on workshop named 'Python Programming: A Practical Approach' that addresses both essential and advanced Python programming skills."
+    },
+    {
+        "input": "Are there faculty development programs in the CSE department?",
+        "output": "Certainly! The CSE department provides Faculty Development Programs (FDPs), such as a workshop titled 'Python Programming: A Practical Approach,' which delves into basic and complex programming techniques in Python."
+    },
+    {
+        "input": "What workshops are available for faculty in CSE?",
+        "output": "The CSE department offers Faculty Development Programs (FDPs), including a hands-on workshop named 'Python Programming: A Practical Approach' that covers core principles and advanced techniques in Python."
+    },
+    {
+        "input": "Is there an FDP on Python in the CSE department?",
+        "output": "Yes, the CSE department hosts Faculty Development Programs (FDPs), which include a workshop titled 'Python Programming: A Practical Approach,' emphasizing both foundational and advanced programming techniques in Python."
+    }
+]

@@ -1,0 +1,96 @@
+body {
+    background-image: url('CollegeImage.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+    color: white;
+}
+
+#chatbox {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: auto;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+}
+
+#chat-title {
+    text-align: center;
+    margin-bottom: 15px;
+    color: #FFDAB9;
+}
+
+#messages {
+    max-height: 400px;
+    overflow-y: auto;
+    margin-bottom: 10px;
+}
+
+.user-message {
+    text-align: right;
+    color: #378bda;
+}
+
+.bot-message {
+    text-align: left;
+    color: #98FF98;
+}
+
+#input-area {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+#user-input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 100%;
+}
+
+#button-container {
+    display: flex;
+    margin-top: 10px;
+}
+
+#send-button {
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+}
+
+#send-button img {
+    width: 40px;
+    height: 40px;
+}
+
+#clear-button {
+    padding: 10px;
+    margin-left: 10px;
+    cursor: pointer;
+    background-color: #FF6347;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    transition: background-color 0.3s;
+    width: 50px;
+    height: 45px;
+}
+
+#clear-button:hover {
+    background-color: #FF4500;
+}
